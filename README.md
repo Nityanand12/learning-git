@@ -1,3 +1,3 @@
 # learning-git
 Exploring something new...
-Author - Nityanand
+Author - Nityanand Rai
